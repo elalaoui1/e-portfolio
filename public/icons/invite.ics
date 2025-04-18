@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Africa/Casablanca
+X-LIC-LOCATION:Africa/Casablanca
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Africa/Casablanca:20250227T143000
+DTEND;TZID=Africa/Casablanca:20250227T150000
+DTSTAMP:20250226T014026Z
+ORGANIZER;CN=infounder Group Morocco:mailto:infoundergroup@gmail.com
+UID:nq519mqhj88urln3fqh9gcbk88@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abdelkarimelalaoui3@gmail.com;X-NUM-GUESTS=0:mailto:abdelkarimelala
+ oui3@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=infounder Group Morocco;X-NUM-GUESTS=0:mailto:infoundergroup@gmail.
+ com
+X-MICROSOFT-CDO-OWNERAPPTID:716725999
+CREATED:20250226T014024Z
+DESCRIPTION:\n\n______________________________\nBook meetings faster with D
+ rift\n<a href="https://www.drift.com/meetings/?utm_source=drift-meetings&ut
+ m_medium=calendar-description&utm_campaign=meetings-referral" target="_blan
+ k" rel="noopener noreferrer">http://drift.com/meetings</a>
+LAST-MODIFIED:20250226T014026Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:abdelkarimelalaoui3@gmail.com & Assia Zh (Infounder Group ) - New M
+ eeting
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
