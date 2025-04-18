@@ -6,6 +6,7 @@ import router from './router'
 import moshaToast from 'mosha-vue-toastify'
 import 'mosha-vue-toastify/dist/style.css'
 import AOS from 'aos'
+import 'aos/dist/aos.js'
 import 'aos/dist/aos.css'
 
 const pinia = createPinia()
