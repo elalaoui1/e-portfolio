@@ -77,6 +77,15 @@ export default {
           link: 'http://ifoods.atwebpages.com/',
           cpt:500
         },
+        {
+          id: 3,
+          img: '/project_Img/hereAgency.png',
+          name: 'HereAgency',
+          description: 'Digital agency for innovative SEO solutions, strategic email marketing,content writing, and business growth strategies.',
+          skills: ['/icons/wordpress.svg','/icons/elementor.svg','/icons/mysql.svg'],
+          link: 'http://hereagency.byethost10.com/',
+          cpt:550
+        },
       ]
     }
   }
