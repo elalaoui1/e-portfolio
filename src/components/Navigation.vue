@@ -34,9 +34,9 @@ const navItems = [
         <!-- Right Side Actions -->
         <div class="hidden md:flex items-center space-x-4">
           <a 
-            href="/Elalaoui_resum.pdf" 
+            href="/ELALAOUI_ABDELKARIM_CV.pdf" 
             download="ELALAOUI_ABDELKARIM_CV.pdf"
-            class="px-6 py-2 rounded-full bg-gradient-to-r from-violet-600 to-purple-600 text-white hover:opacity-90 transition-all duration-300 transform hover:scale-105">
+            class="px-6 py-2 rounded-xl bg-gradient-to-r from-violet-600 to-purple-600 text-white hover:opacity-90 transition-all duration-300 transform hover:scale-105">
             Download CV
           </a>
           <!-- <template v-if="auth.isAuthenticated">
@@ -56,7 +56,7 @@ const navItems = [
           <a 
             href="/Elalaoui_resum.pdf" 
             download="ELALAOUI_ABDELKARIM_CV.pdf"
-            class="px-6 py-2 rounded-lg text-white border border-purple-500 transition-all duration-300 transform hover:scale-105">
+            class="px-6 py-2 rounded-xl text-white border border-purple-500 transition-all duration-300 transform hover:scale-105">
             Download CV
           </a>
           <!-- <template v-if="auth.isAuthenticated">

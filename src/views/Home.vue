@@ -1,15 +1,15 @@
 <template>
   <div class="section-container">
     <div class="max-w-4xl mx-auto text-center">
-      <p class="text-sm text-purple-500 mb-6 tracking-wider">FULL-STACK DEVELOPE</p>
+      <p class="text-sm text-purple-500 mb-6 tracking-wider">FULL-STACK DEVELOPER</p>
       <h1 class="text-3xl md:text-6xl font-bold">Crafting digital experiences</h1>
       <h1 class="text-3xl md:text-6xl font-bold mb-6">with <span class="text-purple-700">code</span> and <span class="text-purple-700">creativity</span></h1>
       <p class="text-xl mb-8">build beautiful and performant applications</p>
       <div class="flex justify-center space-x-4 relative z-10">
-        <router-link to="/projects" class="bg-gradient-to-r from-[#18044d] to-[#5702a7] text-white px-6 py-2 rounded-lg transition-transform duration-300 hover:scale-110 hover:from-[#5702a7] hover:to-[#18044d]">
+        <router-link to="/projects" class="bg-gradient-to-r from-[#18044d] to-[#5702a7] text-white px-6 py-2 rounded-xl transition-transform duration-300 hover:scale-110 hover:from-[#5702a7] hover:to-[#18044d]">
           View Projects
         </router-link>
-        <router-link to="/contact" class="border border-[#5b169b] px-6 py-2 rounded-lg text-white transition-transform duration-300 hover:scale-110 hover:bg-gradient-to-r hover:from-[#18044d] hover:to-[#5702a7] hover:border-black">
+        <router-link to="/contact" class="border border-[#5b169b] px-6 py-2 rounded-xl text-white transition-transform duration-300 hover:scale-110 hover:bg-gradient-to-r hover:from-[#18044d] hover:to-[#5702a7] hover:border-black">
           Contact Me
         </router-link>
       </div>

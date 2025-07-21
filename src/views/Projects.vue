@@ -46,7 +46,7 @@ export default {
           img: '/project_Img/moroccoglimpsee.png',
           name: 'Morocco Glimpse',
           description: 'Explore Morocco’s hidden gems with unique, unforgettable tours. and landscapes.',
-          skills: ['/icons/laravel.svg', '/icons/Livewire.svg', '/icons/tailwind-css.svg','/icons/mysql.svg'],
+          skills: ['/icons/laravel.svg','/icons/filament.png', '/icons/Livewire.svg', '/icons/tailwind-css.svg','/icons/mysql.svg'],
           link: 'https://www.moroccoglimpse.com/',
           cpt:300
         },
@@ -60,7 +60,16 @@ export default {
           cpt:400
         },
         {
-          id: 3,
+          id: 4,
+          img: '/project_Img/palmsballon.png',
+          name: 'palms balloon',
+          description: 'Palms Balloon offers unforgettable hot air balloon experiences over Marrakech.',
+          skills: ['/icons/laravel.svg', '/icons/filament.png', '/icons/Alpine.js.svg', '/icons/tailwind-css.svg','/icons/mysql.svg'],
+          link: 'https://palmsballoon.com/',
+          cpt:400
+        },
+        {
+          id: 5,
           img: '/project_Img/weeather-app.jpg',
           name: 'weeather-app',
           description: 'Real-time weather forecasts worldwide. Simple, fast, and beautifully designed for daily use.',
@@ -69,7 +78,7 @@ export default {
           cpt:400
         },
         {
-          id: 3,
+          id: 6,
           img: '/project_Img/iFoods.png',
           name: 'iFoods',
           description: 'Your ultimate restaurant website for a seamless, modern, and engaging dining experience.',
@@ -78,7 +87,7 @@ export default {
           cpt:500
         },
         {
-          id: 3,
+          id: 7,
           img: '/project_Img/hereAgency.png',
           name: 'HereAgency',
           description: 'Digital agency for innovative SEO solutions, strategic email marketing,content writing, and business growth strategies.',
