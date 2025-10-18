@@ -20,6 +20,7 @@ const skills = ref<Skill[]>([
   { name: 'Express js', category: 'Backend' ,icon:"/icons/express-js.svg"},
   { name: 'MySql', category: 'Backend' ,icon:"/icons/mysql.svg"},
   { name: 'MongoDB', category: 'Backend',icon:"/icons/mongodb.svg" },
+  { name: 'Supabase', category: 'Backend',icon:"/icons/supabase.svg" },
   { name: 'Linux', category: 'Tools',icon:"/icons/linux.svg" },
   { name: 'Git', category: 'Tools' ,icon:"/icons/git.svg"},
   { name: 'Docker', category: 'Tools' ,icon:"/icons/docker.svg"},
