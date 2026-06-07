@@ -41,15 +41,15 @@ export default {
           link: 'https://etabhub.com/',
           cpt: 200
         },
-        {
-          id: 2,
-          img: '/project_Img/moroccoglimpsee.png',
-          name: 'Morocco Glimpse',
-          description: 'Explore Morocco’s hidden gems with unique, unforgettable tours. and landscapes.',
-          skills: ['/icons/laravel.svg','/icons/filament.png', '/icons/Livewire.svg', '/icons/tailwind-css.svg','/icons/mysql.svg'],
-          link: 'https://www.moroccoglimpse.com/',
-          cpt:300
-        },
+        // {
+        //   id: 2,
+        //   img: '/project_Img/moroccoglimpsee.png',
+        //   name: 'Morocco Glimpse',
+        //   description: 'Explore Morocco’s hidden gems with unique, unforgettable tours. and landscapes.',
+        //   skills: ['/icons/laravel.svg','/icons/filament.png', '/icons/Livewire.svg', '/icons/tailwind-css.svg','/icons/mysql.svg'],
+        //   link: 'https://www.moroccoglimpse.com/',
+        //   cpt:300
+        // },
         {
           id: 3,
           img: '/project_Img/medicareplusee.png',
